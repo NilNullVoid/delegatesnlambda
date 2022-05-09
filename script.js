@@ -18,7 +18,7 @@ let ComputePower = (b, e) => {
     console.log(total);
 }
 
-let fib = (n) => {
+let fib = n => {
     let firstnumber = 0, secondnumber = 1, result = 0;
     if (n == 0) {
         Console.WriteLine(0);
