@@ -1,0 +1,16 @@
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\obj\Debug\net5.0\delegatesnlambda.csproj.AssemblyReference.cache
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\obj\Debug\net5.0\delegatesnlambda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\obj\Debug\net5.0\delegatesnlambda.AssemblyInfoInputs.cache
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\obj\Debug\net5.0\delegatesnlambda.AssemblyInfo.cs
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\obj\Debug\net5.0\delegatesnlambda.csproj.CoreCompileInputs.cache
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\bin\Debug\net5.0\delegatesnlambda.exe
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\bin\Debug\net5.0\delegatesnlambda.deps.json
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\bin\Debug\net5.0\delegatesnlambda.runtimeconfig.json
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\bin\Debug\net5.0\delegatesnlambda.runtimeconfig.dev.json
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\bin\Debug\net5.0\delegatesnlambda.dll
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\bin\Debug\net5.0\ref\delegatesnlambda.dll
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\bin\Debug\net5.0\delegatesnlambda.pdb
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\obj\Debug\net5.0\delegatesnlambda.dll
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\obj\Debug\net5.0\ref\delegatesnlambda.dll
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\obj\Debug\net5.0\delegatesnlambda.pdb
+C:\Users\103994960\OneDrive - Swinburne University\Documents\My Web Sites\delegatesnlambda\obj\Debug\net5.0\delegatesnlambda.genruntimeconfig.cache
